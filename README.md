@@ -4,6 +4,10 @@ Global Superstore is a global online retailer based in New York, boasting a broa
 
 The above data has three tabs (Orders, Returns and People ) . We are using the Orders data for our visualization. The Variables present in the dataset are mentioned below:
 
+Data Source
+
+Global Super Store is a customer centric data set data set which has around 50000 values which has the data of all the orders that have been placed through different vendors and markets, starting from the year 2011 till 2015. It also has Salesman & Returns data
+
 Row ID
 
 Order ID
